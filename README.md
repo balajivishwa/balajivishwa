@@ -38,9 +38,7 @@
 <img align="left" alt="Bootstrap" width="50px" style="margin:10px"  src="assets/bootstrap.png" />
 
 <br>
-<hr>
-
-## My Stats:
+    
 <br>
 <p>
     <a href="https://github.com/STRIZERORTIX/github-readme-streak-stats">
@@ -53,7 +51,7 @@
 <p>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="STRIZERORTIX's Top Languages" style="margin:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STRIZERORTIX&langs_count=5&theme=midnight-purple&hide_border=true/"></a>
 </p>
-
+</span>
 <br>
 
 
