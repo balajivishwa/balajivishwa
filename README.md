@@ -37,6 +37,8 @@
 <img align="left" alt="premeire pro" width="50px" style="margin:10px"  src="assets/premiere-pro.png" />
 <img align="left" alt="Bootstrap" width="50px" style="margin:10px"  src="assets/bootstrap.png" />
 
+
+## My Stats:
 <br>
 <p>
     <a href="https://github.com/STRIZERORTIX/github-readme-streak-stats">
