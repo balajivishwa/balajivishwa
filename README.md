@@ -12,10 +12,10 @@
 
 ## Connect with me:
 
-[<img width="40px" style="margin-right:15px" src="assets/instagram.png" />][instagram]
-[<img width="40px" style="margin-right:15px" src="assets/twitter.png" />][twitter]
-[<img width="40px" style="margin-right:15px" src="assets/gmail.png" />][gmail]
-[<img width="40px" style="margin-right:15px" src="assets/linkedin.png" />][Ln]
+[<img width="40px" style="margin-right:20px" src="assets/instagram.png" />][instagram]
+[<img width="40px" style="margin-right:20px" src="assets/twitter.png" />][twitter]
+[<img width="40px" style="margin-right:20px" src="assets/gmail.png" />][gmail]
+[<img width="40px" style="margin-right:20px" src="assets/linkedin.png" />][Ln]
 
 <br>
 
