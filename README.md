@@ -3,7 +3,7 @@
 ### Currently A Student, UI/UX Designer, Full Stack Developer, A Graphic Designer!
 
 - 💥 <i><b>On A Continuous Thirst For Knowledge!</b></i>
-- 🔮 <i><b>Currently working on UI desining</b></i>
+- 🔮 <i><b>Currently working on UI Designing</b></i>
 - 📰 <i><b>I’m looking forward to collaborate with other designers and developers</b></i>
 - ⚡ <i><b>Open Source Mentor at the [Cognizance-Amrita University][cognizance]  </b></i>
 
