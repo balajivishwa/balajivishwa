@@ -1,9 +1,8 @@
-### Currently A Student, UI/UX Designer, Full Stack Developer, A Graphic Designer!
+### Currently A Student,Full Stack Developer, A Graphic Designer!
 
-- 💥 <i><b>On A Continuous Thirst For Knowledge!</b></i>
-- 🔮 <i><b>Currently working on UI Designing</b></i>
+
 - 📰 <i><b>I’m looking forward to collaborate with other designers and developers</b></i>
-- ⚡ <i><b>Open Source Mentor at the [Cognizance-Amrita University][cognizance]  </b></i>
+
 
 <hr>
 <br>
@@ -43,18 +42,7 @@
 <br>
 <br>    
 <br>
-<p>
-    <a href="https://github.com/STRIZERORTIX/github-readme-streak-stats">
-        <img style="margin:50px"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="STRIZERORTIX streak" src="https://github-readme-streak-stats.herokuapp.com?user=STRIZERORTIX&theme=midnight-purple&hide_border=true&border=DD0404&ring=00DDCF&background=000000&stroke=00DDAA&fire=DD08DC&currStreakNum=DD0202"/>
-    </a>
-</p>
-<p>
-     <a href="https://github.com/STRIZERORTIX/github-readme-stats"><img alt="STRIZERORTIX's Github Stats" style="margin:50px"  src="https://github-readme-stats.vercel.app/api?username=STRIZERORTIX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-<p>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="STRIZERORTIX's Top Languages" style="margin:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STRIZERORTIX&langs_count=5&theme=midnight-purple&hide_border=true/"></a>
-</p>
-</span>
+
 <br>
 
 
