@@ -1,5 +1,3 @@
-![](/assets/Profile%20Banner.png)
-
 ### Currently A Student, UI/UX Designer, Full Stack Developer, A Graphic Designer!
 
 - 💥 <i><b>On A Continuous Thirst For Knowledge!</b></i>
