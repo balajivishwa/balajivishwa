@@ -28,11 +28,6 @@
 <img align="left" alt="MySQL" width="40px" style="margin:10px"  src="assets/mysql.png" />
 <img align="left" alt="Java" width="40px" style="margin:10px"  src="assets/java.png" />
 <img align="left" alt="photoshop" width="40px" style="margin:10px"  src="assets/photoshop.png" />
-<img align="left" alt="illustrator" width="40px" style="margin:10px"  src="assets/illustrator.png" />
-<img align="left" alt="xd" width="40px" style="margin:10px"  src="assets/xd.png" />
-<img align="left" alt="Dreamweaver" width="40px" style="margin:10px"  src="assets/Dw.svg" />
-<img align="left" alt="premeire pro" width="40px" style="margin:10px"  src="assets/premiere-pro.png" />
-<img align="left" alt="Bootstrap" width="40px" style="margin:10px"  src="assets/bootstrap.png" />
 
 <br>
 <br>
@@ -46,9 +41,7 @@
 <br>
 
 
-[twitter]: https://twitter.com/Strizer_Ortix
-[cognizance]: https://github.com/cognizance-amrita
-[instagram]: https://www.instagram.com/strizer_ortix/
-[devpost]: https://devpost.com/STRIZERORTIX?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
-[Ln]: https://www.linkedin.com/in/strizerortix/
-[gmail]: mailto:abhi.varadan@gmail.com
+[twitter]: https://twitter.com/balajivishwa17
+[instagram]: https://www.instagram.com/balajivishwa1712/
+[Ln]: https://www.linkedin.com/in/balaji-vishwa-2a1063207/
+[gmail]: mailto:balajivishwa1712@gmail.com
