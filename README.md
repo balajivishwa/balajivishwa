@@ -3,7 +3,7 @@
 </div>
 
 
-### Currently A Student!
+
 
 
 
