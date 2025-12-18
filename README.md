@@ -11,7 +11,7 @@ I am a **Go Developer** passionate about building efficient backend systems and 
 
 | My Progress | Top Languages |
 | :--- | :--- |
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical) |
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=balajivishwa&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balajivishwa&layout=compact&theme=radical) |
 
 ### 🤝 Let's Connect
 - 📧 Email: [Balajivishwa1712@gmail.com]
